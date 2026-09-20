@@ -11,8 +11,9 @@ A lightweight Big Data prototyping project that processes Shakespeare's vocabula
 
 This project uses the **tinyshakespeare** dataset, which consists of 1 Megabyte of clean text from Shakespeare's plays. 
 
-Special thanks to **Andrej Karpathy** for collecting and making this dataset widely accessible. The original file was obtained from his repository:
-*   [karpathy/char-rnn (GitHub)](https://github.com)
+Special thanks to **Andrej Karpathy** for collecting and making this dataset widely accessible. The dataset was obtained from his repository:
+*   [Repository Page: karpathy/char-rnn (GitHub)](https://github.com/karpathy/char-rnn)
+*   [Direct Source File: input.txt](https://github.com/karpathy/char-rnn/blob/master/data/tinyshakespeare/input.txt)
 
 ## Prerequisites
 
